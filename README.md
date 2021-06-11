@@ -67,4 +67,7 @@ set CRLF for windows
 >
 > git ls-files
 
+> git rm --cached -r logs/
+> git ls-files
+
 commit often, make it meaningful message
