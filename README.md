@@ -47,13 +47,24 @@ set CRLF for windows
 > git status
 > git add .
 > git status
+
+
 > mkdir logs
-> echo hello . logs/dev.log
-> echo logs/ > .gitignore
-> code .gitignore
-> git add .gitignore
-> git commit -m "add gitignore"
-> git status
 > 
+> echo hello . logs/dev.log
+>
+> echo logs/ > .gitignore
+>
+> code .gitignore
+>
+> git add .gitignore
+>
+> git commit -m "add gitignore"
+>
+> git status
+>
+> git rm -h
+>
+> git ls-files
 
 commit often, make it meaningful message
