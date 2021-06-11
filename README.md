@@ -19,14 +19,23 @@ set CRLF for windows
 [posh-git](https://github.com/dahlbyk/posh-git)
 
 > git init
+> 
 > git status
+> 
 > git add .
+> 
 > git add file1.txt
+> 
 > git commit //Open editor
+> 
 > git commit -m "Initial commit"
+> 
 > echo world! >> file2.txt
+> 
 > git commit -am "Add more mesage"
+> 
 > rm file2.txt
+> 
 > git status
 > git ls-files
 > git add file2.txt
