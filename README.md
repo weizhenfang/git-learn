@@ -42,5 +42,9 @@ set CRLF for windows
 > echo hello . logs/dev.log
 > echo logs/ > .gitignore
 > code .gitignore
+> git add .gitignore
+> git commit -m "add gitignore"
+> git status
+> 
 
 commit often, make it meaningful message
