@@ -24,4 +24,23 @@ set CRLF for windows
 > git add file1.txt
 > git commit //Open editor
 > git commit -m "Initial commit"
-> 
+> echo world! >> file2.txt
+> git commit -am "Add more mesage"
+> rm file2.txt
+> git status
+> git ls-files
+> git add file2.txt
+> git ls-files
+> git commit -m " remove unused code."
+> git remove files.txt //remove fromm both working directory and the staging area.
+> ls
+> mv file1.txt file1.js
+> git status
+> git add .
+> git status
+> mkdir logs
+> echo hello . logs/dev.log
+> echo logs/ > .gitignore
+> code .gitignore
+
+commit often, make it meaningful message
