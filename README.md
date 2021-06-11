@@ -16,7 +16,12 @@ set CRLF for windows
 >git config --help
 [git config help](https://git-scm.com/docs/git-config)
 
+[posh-git](https://github.com/dahlbyk/posh-git)
+
 > git init
 > git status
 > git add .
+> git add file1.txt
+> git commit //Open editor
+> git commit -m "Initial commit"
 > 
