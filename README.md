@@ -149,6 +149,12 @@ commits/Blobs(Files)/Trees(Direcgtory)/Tags
 1. 点击对号提交
 2. 选择main
 
+新建库：
+
+1. 拉取推送
+2. 同步
+3. 新建库
+
 推送：
 
 1. github新建库
