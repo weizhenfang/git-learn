@@ -79,7 +79,9 @@
     - Find all branches which can be safely deleted, since those branches are fully contained by HEAD.
     --no-merged is used to find branches which are candidates for merging into HEAD, since those branches are not fully contained by HEAD.
 
-![Checkout](ssets/img/gitcheckout.png)
+![Checkout](ssets/img/gitcheckout.png 'checkout')
+
+![Checkout command](https://github.com/weizhenfang/git-learn/blob/main/assets/img/gitcheckout.png)
 
 ## CHECKOUT
 
