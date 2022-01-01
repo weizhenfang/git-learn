@@ -4,7 +4,7 @@
 
 ## BASIC
 
-![GitCommand](/assets/img/gitCommands.png)
+![GitCommand](assets/img/gitCommands.png)
 
 ### git init [projectname]
 
@@ -79,7 +79,7 @@
     - Find all branches which can be safely deleted, since those branches are fully contained by HEAD.
     --no-merged is used to find branches which are candidates for merging into HEAD, since those branches are not fully contained by HEAD.
 
-![Checkout](/ssets/img/gitcheckout.png)
+![Checkout](ssets/img/gitcheckout.png)
 
 ## CHECKOUT
 
@@ -298,7 +298,7 @@
 
 ## UPSTREAM
 
-![upstream](/assets/img/upstream.png)
+![upstream](assets/img/upstream.png)
 
 ### git remote add upstream git@github.com:forked/project.git
 
