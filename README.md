@@ -1,6 +1,6 @@
 # learn git
 
-[Video](https://www.youtube.com/watch?v=_OZVJpLHUaI&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN) | [Video](https://www.youtube.com/watch?v=RGOj5yH7evk) | [Video](https://www.youtube.com/watch?v=FyAAIHHClqI&list=RDQMRp2bFDrBoXg&start_radio=1) | https://academind.com/learn/web-dev/git-the-basics/
+[@maxedapps Video](https://www.youtube.com/watch?v=_OZVJpLHUaI&list=PL55RiY5tL51poFMpbva1IqfO-pylwSNsN) | [Video](https://www.youtube.com/watch?v=RGOj5yH7evk) | [Video](https://www.youtube.com/watch?v=FyAAIHHClqI&list=RDQMRp2bFDrBoXg&start_radio=1) | https://academind.com/learn/web-dev/git-the-basics/
 
 ## BASIC
 
