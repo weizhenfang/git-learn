@@ -4,9 +4,7 @@
 
 ## BASIC
 
-![GitCommand](assets/img/gitCommands.png "git Commands" )
-
-<div align='center'><img width = '900'  src ="./assets/img/gitCommands.png"/></div>
+![gitCommands](https://user-images.githubusercontent.com/63946771/147845241-ab529e39-d964-4f3c-a9d7-e9c2ec8b9520.png)
 
 ### git init [projectname]
 
