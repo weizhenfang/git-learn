@@ -79,9 +79,7 @@
     - Find all branches which can be safely deleted, since those branches are fully contained by HEAD.
     --no-merged is used to find branches which are candidates for merging into HEAD, since those branches are not fully contained by HEAD.
 
-![Checkout](ssets/img/gitcheckout.png 'checkout')
-
-![Checkout command](https://github.com/weizhenfang/git-learn/blob/main/assets/img/gitcheckout.png)
+![gitcheckout](https://user-images.githubusercontent.com/63946771/147845246-27a500df-9a8d-4e27-b4bd-72f9a6a1c300.png)
 
 ## CHECKOUT
 
@@ -300,7 +298,8 @@
 
 ## UPSTREAM
 
-![upstream](assets/img/upstream.png)
+![upstream](https://user-images.githubusercontent.com/63946771/147845249-eb95298e-9a5a-4050-97f8-6af494c40130.png)
+
 
 ### git remote add upstream git@github.com:forked/project.git
 
