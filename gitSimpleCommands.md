@@ -223,15 +223,17 @@ set CRLF for windows
 >
 > git ls-files
 >
->git rm -r --cached .
+> git rm -r --cached .
 >
->git add .
+> git add .
 >
->git status -s
+> git status -s
 >
->git diff --staged
+> git diff --staged
 >
->git config --global diff.tool vscode
+> git diff hello.txt
+>
+> git config --global diff.tool vscode
 >
 >git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
 > git config --global -e
@@ -244,7 +246,10 @@ set CRLF for windows
 >
 > git log --oneline
 >
->git show
+> cat index.js
+> git revert XXX
+>
+> git show
 >
 > git show 6d6098e
 >
